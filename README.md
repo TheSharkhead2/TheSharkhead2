@@ -12,9 +12,6 @@ Overall, my github is mostly full of passion projects. There is a game or two I 
 
 A lot of the projects on my github are actually in progress (or stunted because of time constraints). Here is a more explicit list of everything I am working on currently: 
 
-- [SHA256 implementation](https://github.com/TheSharkhead2/sha256) 
-   * This isn't a massive project, however for the last three years I have been interested in how this particular hash algorithm works and I now have a reason to build an implementation of it (as an open-ended project for my computer security class). I am following a tutorial, however as it is written in python, I am trying my best to fix the somewhat not-amazing code which the tutorial uses as I am translating it to Julia. 
-
 - [RPGGAME2](https://github.com/TheSharkhead2/rpggame2)
    * Yeah so it doesn't have a name. But the first version of this game I uploaded to github because it is probably my favorite coding project to date. The idea with the second version is to make it a bit more graphically interesting (the first game didn't have graphics), but also clean up the code substantially as the main reason I didn't get to everything I had planned for the first game was the code became unmanagable. While yes I am building this in python, when I started this project it was my favorite language so I wanted to stick with what I was used to. One of the big things I have had to learn for this project is the pygame library, which wasn't too dificult considering my experience with similar environments (React Native), but was new to me (and I couldn't find amazing tutorials). This has been a project I haven't worked on in a while, however it is something which I truly wish to finish as I have always loved game development. 
 
