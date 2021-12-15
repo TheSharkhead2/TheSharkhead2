@@ -41,3 +41,4 @@ There are quite a few projects I would be interested in pursuing next, however h
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheSharkhead2&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=75e033f5-beb6-4359-afae-db8209348d42&theme=react)](https://github.com/anuraghazra/github-readme-stats)
