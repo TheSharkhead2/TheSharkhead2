@@ -1,4 +1,5 @@
 # Hello! 
+[![wakatime](https://wakatime.com/badge/user/75e033f5-beb6-4359-afae-db8209348d42.svg)](https://wakatime.com/@75e033f5-beb6-4359-afae-db8209348d42)
 
 My name is Theo and I am currently a high school (almost college) student. I love coding and math.
 
@@ -36,6 +37,7 @@ There are quite a few projects I would be interested in pursuing next, however h
 
 ## Github Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheSharkhead2&count_private=true&hide=issues&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheSharkhead2&count_private=true&hide=issues&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheSharkhead2&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
