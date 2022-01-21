@@ -1,13 +1,7 @@
 # Hello! 
 [![wakatime](https://wakatime.com/badge/user/75e033f5-beb6-4359-afae-db8209348d42.svg)](https://wakatime.com/@75e033f5-beb6-4359-afae-db8209348d42)
 
-My name is Theo and I am currently a high school (almost college) student. I love coding and math.
-
-Coding is really amazing to me because it allows me to create solutions to many problems that few other tools allow. I can model situations I find confusing to figure out patterns or build a program that just makes a task easier. I have recently been enjoying using the Julia language, but previously primarily used Python. In addition, I also have experience with JavaScript and LaTeX as well as, while not languages, React Native and Unreal Engine 4. One of the topics I find most interesting in the field of computer science is artificial intelligence. In the last year or two, I have experimented with neural networks, decision trees, clustering, etc. Computer vision has also become quite interesting to me as I have been taking a class in it this year. The project [imageProcessing](https://github.com/TheSharkhead2/imageProcessing) has been my work for specifically computer vision where I have been attempting to implement the algorithms I am finding interesting. 
-
-In math, I truly fell in love when I learned calculus for the first time, so that is probably still my favorite topic in math. I am currently diving into the world of differential equations and linear algebra and enjoyed multivariable calculus as well as graph theory last year (There are some projects here which relate to these classes. Either computational exercises or the like). I have absolutely loved diving into these classes and hope to take even more math into the future. Unrelated to programming, but I have recently also become interested in the pedagogy of math and how we teach it. This has led me to create lessons of my own (for calculus in particular), which has been a project I have quite enjoyed. I would love to talk to you about this if you are also interested in it! 
-
-Overall, my github is mostly full of passion projects. There is a game or two I worked on, but also interfaces for the Spotify API and some COVID-19 modeling (though this particular project is not done at all. I had worked on this previously and got interesting results and wanted to work on a more ambitious project, but couldn't find the time). Feel free to explore and talk to me about what you see :). 
+My name is Theo and I am currently a high school (almost college) student. I love building simulations to explore the world and making small programs to entertain myself or make something slightly easier. Feel free to explore my GitHub and find some of the projects I have been entertaining myself with! 
 
 ## Current Projects
 
@@ -19,8 +13,8 @@ A lot of the projects on my github are actually in progress (or stunted because 
 - [Spotipy function set](https://github.com/TheSharkhead2/SpotipyFunction_Set)
    * This is a project a friend and I have been working on so that we can make our work with the Spotify API easier. We were both really struggling with using the API, and both working on projects involving it, so this is essentially a combination of simplification of content (sometimes it wasn't the nicest) and some useful additional functions for certain features we were commonly using. This project contains most of the really useful stuff we wanted to add, however there is still some to add which we might get to at some point. 
 
-- [Image processing algorithms](https://github.com/TheSharkhead2/imageProcessing)
-   * As I mentioned above, this is a project which is me putting together a bunch of my own implementations created for a class I am currently taking. I am almost entirely creating these implementations as an extention of the class as I truly find it fun and productive for me to learn about the algorithms. The general goal of the project is to construct as much as I can from scratch so that I get as good of an understanding as possible. As I have found this topic incredibly interesting, and there are many, many more topics to cover, I will most likely continue this project past the class adding my own implementations of algorithms or functions I find interesting. 
+- Discord Bot
+   * No fancy name for this one (and also no link to a project, can't really put it online). Basically, I am building a Discord bot for my friends and me that can do a variety of fun little things to make our Discord server more entertaining. I have been maintaining this on and off over the last year and a half and have been enjoying it. It is fairly easy programming that allows me to learn to use the Discord API while also giving my friends a good time. So it is all around a fun project.
 
 ## Future Projects 
 
