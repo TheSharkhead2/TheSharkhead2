@@ -1,4 +1,3 @@
-[![wakatime](https://wakatime.com/badge/user/75e033f5-beb6-4359-afae-db8209348d42.svg)](https://wakatime.com/@75e033f5-beb6-4359-afae-db8209348d42)
 # Hello! 
 
 My name is Theo and I am currently a high school (almost college) student. I love building simulations to explore the world and making small programs to entertain myself or make something slightly easier. Feel free to explore my GitHub and find some of the projects I have been entertaining myself with! 
