@@ -23,6 +23,6 @@ My name is Theo and I am currently a student at Harvey Mudd College! I love expl
 
 <!-- [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=75e033f5-beb6-4359-afae-db8209348d42&theme=react&hide=JSON,Markdown,TeX,Text&langs_count=6)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheSharkhead2&theme=react&layout=compact&hide=TeX)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheSharkhead2&theme=react&layout=compact&hide=TeX,html)](https://github.com/anuraghazra/github-readme-stats)
 
 
