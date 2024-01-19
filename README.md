@@ -2,7 +2,7 @@
 
 My name is Theo. I am currently a computer science and mathematics student at Harvey Mudd College. Feel free to look around at my projects and reach out if you have any questions/have something fun to talk about! 
 
-Check out my website for a more detailed description of my projects: [theorode.com](theorode.com) (hopefully I can keep this relatively updated).
+Check out my website for a more detailed description of my projects: [theorode.com](https://www.theorode.com) (hopefully I can keep this relatively updated).
 
 ## Projects 
 - [spotify.rs](https://github.com/TheSharkhead2/spotify.rs) - A better way to interact with the Spotify API.
