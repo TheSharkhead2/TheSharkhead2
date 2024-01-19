@@ -1,19 +1,18 @@
 # Hello! 
 
-My name is Theo and I am currently a student at Harvey Mudd College! I love exploring the world through computer science, math, physics, or really in any other way I can. In terms of programming, I mean you're looking at my GitHub, I have fallen in love with Julia for most of everything, though I am having a lot of fun with Rust (especially for when things really need to be done right), and I have a good amount of experience in Python. I also have some experience with JavaScript, Racket, SML, MATLAB, and of course HTML and CSS. Though I highly encourage you to look over some of my projects if you are interested!
+My name is Theo. I am currently a computer science and mathematics student at Harvey Mudd College. Feel free to look around at my projects and reach out if you have any questions/have something fun to talk about! 
 
-## Projects
-- [Spotify Analytics Dashboard](https://github.com/TheSharkhead2/Spotify_Analytics_Dashboard): How does order play a role in your listening history? This app aims to give insights into listening patterns over time, rather than just simple cumulative data on your listening. This app is built using a Tauri backend, written in Rust, with a Svelte frontend utilizing D3.js for data visualization.
-- I have an odd obsession with music analysis so I have made two wrappers for the Spotify API: [in Rust](https://github.com/TheSharkhead2/spotify.rs) and [in Julia](https://github.com/TheSharkhead2/Julia_Spotify).
-   - [Spotipy Function Set](https://github.com/TheSharkhead2/SpotipyFunction_Set): as a precursor to building the wrappers myself, I collaborated with a friend to improve the usability of a Python based Spotify API wrapper @code49
-   - [Spotify Recommendations](https://github.com/TheSharkhead2/SpotifyRecommendations): a project using machine learning to determine which songs I like. 
-- [MathV2](https://github.com/TheSharkhead2/MathV2): as a student I have become fascinated with how we teach things, specifically math, so I tried my hand in writing some math curriculum. 
-- [Project Creator](https://github.com/TheSharkhead2/Project_Creator): with many projects being started in various languages I got tired of setting each project up manually so I built a command line program to automatically generate templates for projects in various languages.
-- Over the pandemic I built a custom, fully modular Discord bot with puzzles, games, and other entertainment for my friends, as well as various management tools. I created a custom dataset manager to store and keep track of relevant information for every user to help with the above.
-- For my highschool algorithms class I built and analyzed a variety of [sorting algorithms](https://github.com/TheSharkhead2/list_sorting) (along with an AVL tree implementation), created an implementation of [PageRank](https://github.com/TheSharkhead2/PageRank), as well as implementing the dynamic programming solution to the [Knapsack Problem](https://github.com/TheSharkhead2/Knapsack_Problem) from scratch, and I completed a thorough analysis of [primality testing algorithms](https://github.com/TheSharkhead2/Primality_Testing).
-- For my highschool differential equations class I made a simulation of the [three body problem](https://github.com/TheSharkhead2/third_body_simulation).
-- [Image Processing Algorithms](https://github.com/TheSharkhead2/imageProcessing): for my highschool computer vision class I implemented a convolutional image filter which I then used to implement canny edge detection, seam carving, and harris corner detection. 
-- For my highschool computer security class I implemented [SHA256](https://github.com/TheSharkhead2/sha256) and [RSA](https://github.com/TheSharkhead2/RSA) from scratch. 
+Check out my website for a more detailed description of my projects: [theorode.com](theorode.com) (hopefully I can keep this relatively updated).
+
+## Projects 
+- [spotify.rs](https://github.com/TheSharkhead2/spotify.rs) - A better way to interact with the Spotify API.
+- [The Game of Gradients](https://github.com/TheSharkhead2/The_Game_of_Gradients) - Develop an intuitive understanding of gradient fields.
+- [pjcr](https://github.com/TheSharkhead2/Project_Creator_2) - Stop wasting time creating all those files when starting a project.
+
+### Short Projects
+- [Metric Space Circles](https://github.com/TheSharkhead2/MATH131_project) - Play around with funky circles and ellipses in different metric spaces. A final project for Mathematical Analysis (MATH131).
+- [StudentLive](https://github.com/TheSharkhead2/student_live_backend) - Scrappy backend for a Chrome extension developed to increase class participation (24-hour Hackathon project).
+- [Generative Quantum NLP](https://github.com/TheSharkhead2/Generative_Quantum_Model) - Exploration of quantum logic for NLP. A final project for my Quantum Information & Computation class. 
 
 ## Stats
 
